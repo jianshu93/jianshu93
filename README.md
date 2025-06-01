@@ -1,6 +1,8 @@
 ## About me 
 Hi there👋. My name is Jianshu (canonically pronounced as Jyen-shoo) Zhao, a computational microbiologist at University of California, San Diego. My primary research interest is microbiome, microbial genomics, genomics, metagenomics and high performance computing. I am a Rustacean :crab:. I am the main developer of several software packages such as [GSearch](https://academic.oup.com/nar/article/52/16/e74/7714450), [annembed](https://academic.oup.com/nargab/article/6/4/lqae172/7928174) and [BinDash 2](https://www.biorxiv.org/content/10.1101/2024.03.13.584875v1.abstract). More information about me [here](https://jianshu93.github.io/blog/about/). Contact me [here](jianshuzhao@yahoo.com).
 
+![Alt!](https://github.com/jianshu93/jianshu93/blob/master/lab_website.png?raw=true)
+
 <!--
 **jianshu93/jianshu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
