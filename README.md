@@ -9,7 +9,7 @@ Hi there👋. My name is Jianshu (canonically pronounced as Jyen-shoo) Zhao, a c
 I am a fan of Rust. Go Ferris!
 
 <div align="center">
-  <img width="75%" src ="Ferris_panicked.PNG">
+  <img width="30%" src ="Ferris_panicked.PNG">
 </div>
 
 <!--
