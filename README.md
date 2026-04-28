@@ -5,6 +5,7 @@ Hi there👋. My name is Jianshu (canonically pronounced as Jyen-shoo) Zhao, a c
   <img width="75%" src ="lab_website.png">
 </div>
 
+Life is short; make your code fast!
 
 I am a fan of Rust. Go Ferris!
 
